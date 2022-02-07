@@ -1,8 +1,8 @@
 ---
 title: "Mayank Sharma"
 image: ""
-email: "doggy.catty101@gmail.com"
-description: "Animal lover and Experienced Writer"
+email: "physics.study18@gmail.com"
+description: "Physics Faculty"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
@@ -14,4 +14,4 @@ social:
     link : "#"
 ---
 
-Mayank Sharma is a senior content writer, writing extensively on pet issues. He has experience of over 10 years. 
+Mayank Sharma is a senior Physics Faculty. He has experience of over 10 years. 

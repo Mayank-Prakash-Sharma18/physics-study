@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://physics-study.com/"
-title = "Dogs and Cats | All about Pets"
+title = "Physics | For IIT-JEE & NEET"
 theme = "reader"
 # post pagination
 paginate = "6"
@@ -63,7 +63,7 @@ menu_align = "center" # available option (left, right, or center )
 author = "Physics Study"
 description = "All about Physics"
 # contact form action
-# contact_form_action = "https://formspree.io/f/maylkwly" 
+contact_form_action = "https://formspree.io/f/xyyoelge" 
 # contact form works with https://formspree.io
 # Go to https://formspree.io, and create an account by click on signup button. Now verify your email address by click on varify button in the mail you got in your inbox. form action will looks like this contact_form_action = "https://formspree.io/your.name@email.com/" 
 
@@ -147,34 +147,34 @@ heading = "What Would You <br> Like To Read Today?"
 [Languages.en.about_me]
 title = "Hi, I am Mragank Shandilya!"
 image = "images/author.jpg"
-bio = "I am a working professional ...."
+bio = "Physics Trainer"
 
 ############# english navigation ##############
 
 [[Languages.en.menu.main]]
-name = "Dogs"
-url = "categories/dogs/"
+name = "Mechanics"
+url = "categories/mechanics/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Cats"
-url = "categories/cats/"
+name = "Electromagnetism"
+url = "categories/electromagnetism/"
 weight = 2
 
-[[Languages.en.menu.main]]
-name = "Parrots"
-url = "categories/parrots/"
-weight = 3
+# [[Languages.en.menu.main]]
+# name = "Parrots"
+# url = "categories/parrots/"
+# weight = 3
 
-[[Languages.en.menu.main]]
-name = "Fishes"
-url = "categories/fishes/"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "Fishes"
+# url = "categories/fishes/"
+# weight = 4
 
-[[Languages.en.menu.main]]
-name = "Rabbits"
-url = "categories/rabbits/"
-weight = 5
+# [[Languages.en.menu.main]]
+# name = "Rabbits"
+# url = "categories/rabbits/"
+# weight = 5
 
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -222,34 +222,34 @@ heading = "आज आप क्या <br> पढ़ना पसंद करे�
 [Languages.hi.about_me]
 title = "नमस्ते, में मृगांक शांडिल्य !"
 image = "images/author.jpg"
-bio = "मुझे पालतू जानवरों - कुत्तों से लेकर बिल्लियों, तोते और यहां तक कि खरगोश पालने का एक दशक से भी अधिक का अनुभव है। अपना ज्ञान आप लोगों के साथ साझा करने का यह मेरा एक छोटा सा प्रयास है।"
+bio = "Physics Trainer"
 
 ############# french navigation ##############
 
 [[Languages.hi.menu.main]]
-name = "कुत्ते"
-url = "categories/dogs/"
+name = "यांत्रिकी"
+url = "categories/mechanics/"
 weight = 1
 
 [[Languages.hi.menu.main]]
-name = "बिल्लियाँ"
-url = "categories/cats/"
+name = "विद्युत्चुम्बकत्व"
+url = "categories/electromagnetism/"
 weight = 2
 
-[[Languages.hi.menu.main]]
-name = "तोते"
-url = "categories/parrots/"
-weight = 3
+# [[Languages.hi.menu.main]]
+# name = "तोते"
+# url = "categories/parrots/"
+# weight = 3
 
-[[Languages.hi.menu.main]]
-name = "मछलियां"
-url = "categories/fishes/"
-weight = 4
+# [[Languages.hi.menu.main]]
+# name = "मछलियां"
+# url = "categories/fishes/"
+# weight = 4
 
-[[Languages.hi.menu.main]]
-name = "ख़रगोश"
-url = "categories/rabbits/"
-weight = 5
+# [[Languages.hi.menu.main]]
+# name = "ख़रगोश"
+# url = "categories/rabbits/"
+# weight = 5
 
 [[Languages.hi.menu.main]]
 name = "संपर्क"

@@ -244,6 +244,9 @@ body {
   margin-top: 15px;
   margin-bottom: 15px; }
 
+iframe[sandbox]:not([sandbox=""]) {
+  display: none !important; }
+
 .navigation {
   border-bottom: 1px solid #EBEBEB;
   transition: .2s ease;
