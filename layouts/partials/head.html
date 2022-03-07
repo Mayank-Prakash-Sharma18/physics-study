@@ -22,7 +22,7 @@
   <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
 
  <!-- Google Tag Manager Code will be inserted here from layouts/partials/gtm.html file (Added by Me) -->
- <!-- {{ partial "gtm" . }} -->
+ {{ partial "gtm" . }}
 
 <!-- For adding katex in the posts where, katex: true (Added by Me) -->
  {{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}

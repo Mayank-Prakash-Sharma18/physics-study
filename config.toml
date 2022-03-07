@@ -161,15 +161,15 @@ name = "Electromagnetism"
 url = "categories/electromagnetism/"
 weight = 2
 
-# [[Languages.en.menu.main]]
-# name = "Parrots"
-# url = "categories/parrots/"
-# weight = 3
+[[Languages.en.menu.main]]
+name = "Modern Physics"
+url = "categories/modern-physics/"
+weight = 3
 
-# [[Languages.en.menu.main]]
-# name = "Fishes"
-# url = "categories/fishes/"
-# weight = 4
+[[Languages.en.menu.main]]
+name = "Waves"
+url = "categories/waves/"
+weight = 4
 
 # [[Languages.en.menu.main]]
 # name = "Rabbits"
@@ -236,15 +236,15 @@ name = "विद्युत्चुम्बकत्व"
 url = "categories/electromagnetism/"
 weight = 2
 
-# [[Languages.hi.menu.main]]
-# name = "तोते"
-# url = "categories/parrots/"
-# weight = 3
+[[Languages.hi.menu.main]]
+name = "आधुनिक भौतिकी"
+url = "categories/modern-physics/"
+weight = 3
 
-# [[Languages.hi.menu.main]]
-# name = "मछलियां"
-# url = "categories/fishes/"
-# weight = 4
+[[Languages.hi.menu.main]]
+name = "तरंग"
+url = "categories/waves/"
+weight = 4
 
 # [[Languages.hi.menu.main]]
 # name = "ख़रगोश"
