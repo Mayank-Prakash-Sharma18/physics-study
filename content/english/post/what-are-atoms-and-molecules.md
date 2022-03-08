@@ -33,6 +33,8 @@ In this article, we are going to learn about the concepts of atom and molecule.
 
 Every matter or element can be divided into smaller and smaller parts. Atom is the smallest part of a matter or element that showcases all the physical and chemical properties. If we divide an atom further, it will lose these basic properties. 
 
+<img src="../../images/post/modern-physics/atom.png" alt="Atom" style="width:81%;height:81%;"> <br>
+
 Though for a long-time philosophers and scientists thought atom to be the smallest part of matter. For example, as per John Dalton, atom was indivisible. But later experiments and observations proved that atoms are made up of smaller particles, i.e. atoms are divisible. 
 
 <div class="toc-mak">
@@ -56,6 +58,8 @@ It is the number of atoms present in one molecule of a matter. For example:
 * Triatomic molecules - Molecules having three atoms, e.g. Ozone (<var>O<sub>3</sub></var>).
 * Tetra-atomic molecules - Molecules having four atoms, e.g. Phosphorus (<var>P<sub>4</sub></var>), Ammonia (N<var>H<sub>3</sub></var>), etc. 
 * And so on. 
+
+<img src="../../images/post/modern-physics/atomicity.png" alt="Atomicity of a Molecule" style="width:99%;height:99%;"> <br>
 
 ### Homo-atomic and Hetro-atomic molecules
 
