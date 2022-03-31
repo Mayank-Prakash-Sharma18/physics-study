@@ -171,6 +171,11 @@ name = "Waves"
 url = "categories/waves/"
 weight = 4
 
+[[Languages.en.menu.main]]
+name = "Optics"
+url = "categories/optics/"
+weight = 5
+
 # [[Languages.en.menu.main]]
 # name = "Rabbits"
 # url = "categories/rabbits/"
@@ -245,6 +250,11 @@ weight = 3
 name = "तरंग"
 url = "categories/waves/"
 weight = 4
+
+[[Languages.hi.menu.main]]
+name = "प्रकाशिकी"
+url = "categories/optics/"
+weight = 5
 
 # [[Languages.hi.menu.main]]
 # name = "ख़रगोश"

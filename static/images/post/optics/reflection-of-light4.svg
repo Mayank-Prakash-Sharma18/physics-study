@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="420" version="1.1" viewBox="0 0 640 420" xmlns="http://www.w3.org/2000/svg">
+ <desc>
+  <Title/>
+ </desc>
+ <g transform="matrix(1.1376 0 0 1.1376 -55.836 17.472)">
+  <g transform="matrix(1.7099 0 0 1.7099 -34.036 -.0011191)" stroke-linecap="square" stroke-miterlimit="10"></g>
+  <g transform="matrix(-2.8487 1.8069 1.8069 2.8487 183.6 141.83)">
+   <path d="m31.959 20.558v10.563l11.271-6.0418z" fill="#fff"/>
+   <g>
+    <ellipse cx="31.797" cy="25.787" rx="1.1785" ry="4.4219" fill="#89d7f3" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".15"/>
+    <ellipse cx="31.207" cy="25.861" rx=".61873" ry="3.2875"/>
+    <ellipse cx="31.325" cy="23.99" rx=".20303" ry=".70211" fill="#fff"/>
+    <path d="m40.773 26.454a1.812 1.812 0 0 1-0.07611-2.4911l1.3529 1.2054z" fill="#e6111a"/>
+    <path d="m32.239 17.39c-1.1158 1.0479-1.5176 2.4527-2.033 3.8008l11.844 3.9775-11.52 5.5391c0.92312 1.1553 1.5871 2.4166 2.0919 3.7713l10.784-8.9863c0.31912-0.26594 0.54617-0.71963-0.08839-1.1196z" fill="#d2b48c"/>
+   </g>
+   <path d="m32.239 17.39c-1.1158 1.0479-1.5176 2.4527-2.033 3.8008l11.844 3.9775-11.52 5.5391c0.87825 1.0953 1.6297 2.3111 2.0919 3.7713" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".3"/>
+  </g>
+ </g>
+ <text transform="scale(-1,1)" x="-482.50635" y="110.61564" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" stroke-linecap="square" stroke-miterlimit="10" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-482.50635" y="110.61564" font-size="74.667px">F</tspan></text>
+ <text x="156.56885" y="110.61564" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" stroke-linecap="square" stroke-miterlimit="10" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="156.56885" y="110.61564" font-size="74.667px">F</tspan></text>
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.1027">
+  <path d="m320.1 167.45-216.85 79.717"/>
+  <path d="m320.1 200.72-187.43 109.03"/>
+  <path d="m320.1 241.61-147.58 124.65"/>
+  <path d="m320.1 167.45-155.49-57.166"/>
+  <path d="m320.1 200.72-155.49-90.436"/>
+  <path d="m320.1 241.61-155.49-131.33"/>
+ </g>
+ <g>
+  <path d="m88.755 252.49 13.156-8.9433 2.6686 7.245z"/>
+  <path d="m119.32 317.51 11.402-11.105 3.8816 6.6716z"/>
+  <path d="m160.72 376.22 9.3072-12.913 4.9844 5.8997z"/>
+ </g>
+ <g fill="none" stroke="#000" stroke-dasharray="5.51372817, 4.41098254" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.1027">
+  <path d="m320.1 167.45 155.49-57.166"/>
+  <path d="m320.1 200.72 155.49-90.436"/>
+  <path d="m320.1 241.61 155.49-131.33"/>
+ </g>
+ <path d="m287.02 110.28c0 8.7734 3.4847 17.192 9.6931 23.389 6.1974 6.2085 14.611 9.6931 23.389 9.6931v-33.082z" fill="#3f3" fill-opacity=".10196"/>
+ <path d="m287.02 110.28c0 8.7734 3.4847 17.192 9.6931 23.389 6.1974 6.2085 14.611 9.6931 23.389 9.6931v-33.082z" fill="none" stroke="#3f3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.1027"/>
+ <path d="m308.54 124.05c0 1.213-0.98143 2.2055-2.2055 2.2055-1.213 0-2.2055-0.99247-2.2055-2.2055 0-1.224 0.99248-2.2055 2.2055-2.2055 1.2241 0 2.2055 0.98144 2.2055 2.2055z" fill="#3f3"/>
+ <g font-family="sans-serif" font-size="17.644px" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1027">
+  <text x="237.07101" y="98.153679" fill="#33ff33">d</text>
+  <text x="75.408211" y="370.30508" fill="#ff3333" fill-opacity=".99216">A</text>
+  <text x="298.03284" y="399.8746" fill="#6666ff">B</text>
+ </g>
+ <path d="m170.13 110.28c0 3.0447-2.4701 5.5137-5.5137 5.5137-3.0436 0-5.5137-2.469-5.5137-5.5137 0-3.0447 2.4702-5.5137 5.5137-5.5137 3.0436 0 5.5137 2.469 5.5137 5.5137z" fill="#fff"/>
+ <path d="m170.13 110.28c0 3.0447-2.4701 5.5137-5.5137 5.5137-3.0436 0-5.5137-2.469-5.5137-5.5137 0-3.0447 2.4702-5.5137 5.5137-5.5137 3.0436 0 5.5137 2.469 5.5137 5.5137z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.1027"/>
+ <text x="142.55795" y="131.23604" fill="#000000" font-family="sans-serif" font-size="17.644px" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1027">P</text>
+ <path d="m481.1 110.28c0 3.0447-2.4701 5.5137-5.5137 5.5137-3.0436 0-5.5137-2.469-5.5137-5.5137 0-3.0447 2.4702-5.5137 5.5137-5.5137 3.0436 0 5.5137 2.469 5.5137 5.5137z" fill="#fff"/>
+ <g stroke-miterlimit="10">
+  <path d="m481.1 110.28c0 3.0447-2.4701 5.5137-5.5137 5.5137-3.0436 0-5.5137-2.469-5.5137-5.5137 0-3.0447 2.4702-5.5137 5.5137-5.5137 3.0436 0 5.5137 2.469 5.5137 5.5137z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1027"/>
+  <rect x="320.29" y="-38.268" width="376.05" height="531.91" fill="#fff" fill-opacity=".4" stroke-linecap="square"/>
+  <text x="488.8201" y="126.82505" fill="#000000" font-family="sans-serif" font-size="17.644px" stroke-linecap="square" stroke-width="1.1027">P'</text>
+ </g>
+ <path d="m353.18 110.28c0-18.271-14.81-33.082-33.082-33.082v33.082z" fill="#3f3" fill-opacity=".10196"/>
+ <path d="m353.18 110.28c0-18.271-14.81-33.082-33.082-33.082v33.082z" fill="none" stroke="#3f3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.1027"/>
+ <path d="m336.07 96.524c0 1.2174-0.99248 2.2055-2.2055 2.2055-1.2241 0-2.2055-0.98806-2.2055-2.2055 0-1.2185 0.98143-2.2055 2.2055-2.2055 1.213 0 2.2055 0.98696 2.2055 2.2055z" fill="#3f3"/>
+ <g stroke-miterlimit="10">
+  <path d="m320.1 110.28h155.49" fill="none" stroke="#3f3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.7569"/>
+  <text x="392.55817" y="99.256416" fill="#33ff33" font-family="sans-serif" font-size="17.644px" stroke-linecap="square" stroke-width="1.1027">d</text>
+  <path d="m164.61 110.28h155.49" fill="none" stroke="#3f3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.7569"/>
+  <path d="m320.1 470.06v-490.54" fill="none" stroke="#66f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.8596"/>
+ </g>
+</svg>
