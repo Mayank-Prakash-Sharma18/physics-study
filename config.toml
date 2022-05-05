@@ -167,19 +167,40 @@ url = "categories/modern-physics/"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Waves"
-url = "categories/waves/"
-weight = 4
-
-[[Languages.en.menu.main]]
-name = "Optics"
-url = "categories/optics/"
+name = "Other Topics"
+url = "#"
 weight = 5
+hasChildren = true
 
-# [[Languages.en.menu.main]]
-# name = "Rabbits"
-# url = "categories/rabbits/"
-# weight = 5
+  [[Languages.en.menu.main]]
+  parent = "Other Topics"
+  name = "Waves"
+  url = "categories/waves/"
+  weight = 6
+
+  [[Languages.en.menu.main]]
+  parent = "Other Topics"
+  name = "Optics"
+  url = "categories/optics/"
+  weight = 7
+
+  [[Languages.en.menu.main]]
+  parent = "Other Topics"
+  name = "Properties of Matter"
+  url = "categories/properties-of-matter/"
+  weight = 8
+
+#   [[Languages.en.menu.main]]
+#   parent = "Other Topics"
+#   name = "Thermal Physics"
+#   url = "categories/thermal-physics/"
+#   weight = 9
+
+#   [[Languages.en.menu.main]]
+#   parent = "Other Topics"
+#   name = "Semiconductor Electronics"
+#   url = "categories/semiconductor-electronics/"
+#   weight = 10
 
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -247,19 +268,40 @@ url = "categories/modern-physics/"
 weight = 3
 
 [[Languages.hi.menu.main]]
-name = "तरंग"
-url = "categories/waves/"
-weight = 4
-
-[[Languages.hi.menu.main]]
-name = "प्रकाशिकी"
-url = "categories/optics/"
+name = "अन्य विषय"
+url = "#"
 weight = 5
+hasChildren = true
 
-# [[Languages.hi.menu.main]]
-# name = "ख़रगोश"
-# url = "categories/rabbits/"
-# weight = 5
+  [[Languages.hi.menu.main]]
+  parent = "अन्य विषय"
+  name = "तरंग"
+  url = "categories/waves/"
+  weight = 6
+
+  [[Languages.hi.menu.main]]
+  parent = "अन्य विषय"
+  name = "प्रकाशिकी"
+  url = "categories/optics/"
+  weight = 7
+
+  [[Languages.hi.menu.main]]
+  parent = "अन्य विषय"
+  name = "प्रदार्थों के गुण"
+  url = "categories/properties-of-matter/"
+  weight = 8
+
+#   [[Languages.hi.menu.main]]
+#   parent = "अन्य विषय"
+#   name = "तापीय भौतिकी"
+#   url = "categories/thermal-physics/"
+#   weight = 9
+
+#   [[Languages.hi.menu.main]]
+#   parent = "अन्य विषय"
+#   name = "अर्धचालक"
+#   url = "categories/semiconductor-electronics/"
+#   weight = 10
 
 [[Languages.hi.menu.main]]
 name = "संपर्क"
