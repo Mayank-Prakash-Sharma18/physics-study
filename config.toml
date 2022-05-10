@@ -196,11 +196,11 @@ hasChildren = true
 #   url = "categories/thermal-physics/"
 #   weight = 9
 
-#   [[Languages.en.menu.main]]
-#   parent = "Other Topics"
-#   name = "Semiconductor Electronics"
-#   url = "categories/semiconductor-electronics/"
-#   weight = 10
+  [[Languages.en.menu.main]]
+  parent = "Other Topics"
+  name = "Semiconductor Electronics"
+  url = "categories/semiconductor-electronics/"
+  weight = 10
 
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -297,11 +297,11 @@ hasChildren = true
 #   url = "categories/thermal-physics/"
 #   weight = 9
 
-#   [[Languages.hi.menu.main]]
-#   parent = "अन्य विषय"
-#   name = "अर्धचालक"
-#   url = "categories/semiconductor-electronics/"
-#   weight = 10
+  [[Languages.hi.menu.main]]
+  parent = "अन्य विषय"
+  name = "अर्धचालक"
+  url = "categories/semiconductor-electronics/"
+  weight = 10
 
 [[Languages.hi.menu.main]]
 name = "संपर्क"
