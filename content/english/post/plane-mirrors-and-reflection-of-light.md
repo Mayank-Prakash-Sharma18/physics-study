@@ -154,7 +154,7 @@ To form full-size image of an object, the size of the plane mirror must at least
 ### Characteristics related to Movement of Mirror or Object
 
 * If plane mirror is rotated by θ degrees, then the reflected ray will be rotated through twice that angle, i.e. by 2θ degrees. 
-* If an object moves towards the mirror with speed v units/second, then its image appears to move towards the mirror with double this speed, i.e. with 2v units/second. 
+* If an object moves towards the mirror with speed v units/second, then its image appears to move towards the object with double this speed, i.e. with 2v units/second. 
 
 ### Characteristics related to Multiple Mirrors
 

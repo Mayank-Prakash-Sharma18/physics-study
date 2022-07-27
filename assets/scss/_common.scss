@@ -231,3 +231,21 @@ mark {
 iframe[sandbox]:not([sandbox=""]) {
   display: none !important;
 }
+
+
+// To style figure and figcaption elements
+// Source: https://www.w3schools.com/tags/tag_figcaption.asp
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: rgb(63, 88, 54);
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+

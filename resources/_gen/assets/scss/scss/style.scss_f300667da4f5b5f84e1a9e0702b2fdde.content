@@ -247,6 +247,18 @@ body {
 iframe[sandbox]:not([sandbox=""]) {
   display: none !important; }
 
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto; }
+
+figcaption {
+  background-color: #3f5836;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center; }
+
 .navigation {
   border-bottom: 1px solid #EBEBEB;
   transition: .2s ease;

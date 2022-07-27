@@ -190,11 +190,11 @@ hasChildren = true
   url = "categories/properties-of-matter/"
   weight = 8
 
-#   [[Languages.en.menu.main]]
-#   parent = "Other Topics"
-#   name = "Thermal Physics"
-#   url = "categories/thermal-physics/"
-#   weight = 9
+  [[Languages.en.menu.main]]
+  parent = "Other Topics"
+  name = "Thermal Physics"
+  url = "categories/thermal-physics/"
+  weight = 9
 
   [[Languages.en.menu.main]]
   parent = "Other Topics"
@@ -291,11 +291,11 @@ hasChildren = true
   url = "categories/properties-of-matter/"
   weight = 8
 
-#   [[Languages.hi.menu.main]]
-#   parent = "अन्य विषय"
-#   name = "तापीय भौतिकी"
-#   url = "categories/thermal-physics/"
-#   weight = 9
+  [[Languages.hi.menu.main]]
+  parent = "अन्य विषय"
+  name = "तापीय भौतिकी"
+  url = "categories/thermal-physics/"
+  weight = 9
 
   [[Languages.hi.menu.main]]
   parent = "अन्य विषय"
